@@ -1,0 +1,20 @@
+# IntelliJ
+**/.idea
+**/*.iml
+**/rebel.xml
+**/.rebel.xml.bak
+**/target/
+.env
+
+# VSC
+.vscode
+*.factorypath
+${*}
+
+# Compiled files
+*.tfstate
+*.tfstate.backup
+.terraform.tfstate.lock.info
+
+# Module directory
+.terraform/
